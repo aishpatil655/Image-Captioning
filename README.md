@@ -1,4 +1,4 @@
-# Image Captioning with Evaluation Metrics
+# Image Captioning with Evaluation Metrics ( check part II - Image Captioning using RNN )
 
 This project involves training an image captioning model using precomputed features and evaluating its performance using two different metrics: BLEU score and cosine similarity.
 
